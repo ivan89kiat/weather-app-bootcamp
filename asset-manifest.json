@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/high-card-bootcamp/static/css/main.d0753a41.css",
+    "main.js": "/high-card-bootcamp/static/js/main.cdbe8447.js",
+    "static/media/logo.png": "/high-card-bootcamp/static/media/logo.e54ce6ab620f8c7135f3.png",
+    "index.html": "/high-card-bootcamp/index.html",
+    "main.d0753a41.css.map": "/high-card-bootcamp/static/css/main.d0753a41.css.map",
+    "main.cdbe8447.js.map": "/high-card-bootcamp/static/js/main.cdbe8447.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0753a41.css",
+    "static/js/main.cdbe8447.js"
+  ]
+}
